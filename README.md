@@ -9,3 +9,7 @@ Codes from my Master's in Electrical Engineering. I implemented, tested and comp
 ### [Design of experiments (DOE) in magnetic characterisation tests](https://github.com/marjoriehoegen/analise-ensaios-tcc)
 
 Final undergraduate research project focused on the application of DOE to determine which factors are significant in the measurement of permeability and magnetic losses of electrical steels. Experimental data were obtained with characterisation tests of electrical steels using Epstein Frame and SST (Single Sheet Tester).
+
+I'm also interested in Earth Sciences, so I'm currently learning remote sensing:
+
+### [Remote sensing](https://github.com/marjoriehoegen/remote_sensing)
