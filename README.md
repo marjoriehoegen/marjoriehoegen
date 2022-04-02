@@ -4,11 +4,11 @@ I'm Marjorie. I have a master's degree in Electrical Engineering, and I do some 
 
 - Here are the projects from my master's and bachelor's degrees:
 
-### [Fault detection in synchronous generators using machine learning](https://github.com/marjoriehoegen/MsC-codes)
+#### [Fault detection in synchronous generators using machine learning](https://github.com/marjoriehoegen/MsC-codes)
 
 Codes from my master's in Electrical Engineering. I implemented, tested and compared different statistical and machine learning techniques, such as Kullback-Leibler divergence, principal component analysis and autoencoders to detect faults in synchronous generators, using the machine's external magnetic field spectrum.
 
-### [Design of experiments (DOE) in magnetic characterisation tests](https://github.com/marjoriehoegen/analise-ensaios-tcc)
+#### [Design of experiments (DOE) in magnetic characterisation tests](https://github.com/marjoriehoegen/analise-ensaios-tcc)
 
 Final undergraduate research project focused on the application of DOE to determine which factors are significant in the measurement of permeability and magnetic losses of electrical steels. Experimental data were obtained with characterisation tests of electrical steels using Epstein Frame and SST (Single Sheet Tester).
 
