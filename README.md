@@ -12,6 +12,6 @@ Codes from my master's in Electrical Engineering. I implemented, tested and comp
 
 Final undergraduate research project focused on the application of DOE to determine which factors are significant in the measurement of permeability and magnetic losses of electrical steels. Experimental data were obtained with characterisation tests of electrical steels using Epstein Frame and SST (Single Sheet Tester).
 
-- And here is my remote sensing repository, where I'm learning the basics of processing this type of data:
+- And here is my remote sensing repository, where I'm learning the basics of processing amd using this type of data:
 
 #### [Remote sensing](https://github.com/marjoriehoegen/remote_sensing)
